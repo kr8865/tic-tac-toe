@@ -1,0 +1,39 @@
+*{
+    margin:o;
+    padding:0;
+}
+body{
+    text-align: center;
+    background-color: burlywood;
+}
+.box{
+    height:120px;
+    width:100px;
+    color:red;
+    background-color: antiquewhite;
+    font-size:30px;
+
+
+}
+.reset{
+    margin-top: 20px;
+    height:80px;
+    width:100px;
+    color:white;
+    background-color: red;
+}
+p{
+    color:red;
+}
+.game{
+    margin:auto;
+}
+.container{
+    height:50vh;
+    width:50vh;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
+    gap:2px;
+}
